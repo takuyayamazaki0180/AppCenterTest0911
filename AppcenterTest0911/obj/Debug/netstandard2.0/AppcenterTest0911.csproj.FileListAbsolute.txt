@@ -1,0 +1,12 @@
+/Users/yamazakitakuya/Projects/AppcenterTest0911/AppcenterTest0911/bin/Debug/netstandard2.0/AppcenterTest0911.deps.json
+/Users/yamazakitakuya/Projects/AppcenterTest0911/AppcenterTest0911/bin/Debug/netstandard2.0/AppcenterTest0911.dll
+/Users/yamazakitakuya/Projects/AppcenterTest0911/AppcenterTest0911/bin/Debug/netstandard2.0/AppcenterTest0911.pdb
+/Users/yamazakitakuya/Projects/AppcenterTest0911/AppcenterTest0911/obj/Debug/netstandard2.0/AppcenterTest0911.csprojAssemblyReference.cache
+/Users/yamazakitakuya/Projects/AppcenterTest0911/AppcenterTest0911/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/yamazakitakuya/Projects/AppcenterTest0911/AppcenterTest0911/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/yamazakitakuya/Projects/AppcenterTest0911/AppcenterTest0911/obj/Debug/netstandard2.0/AppcenterTest0911.csproj.CoreCompileInputs.cache
+/Users/yamazakitakuya/Projects/AppcenterTest0911/AppcenterTest0911/obj/Debug/netstandard2.0/AppcenterTest0911.AssemblyInfoInputs.cache
+/Users/yamazakitakuya/Projects/AppcenterTest0911/AppcenterTest0911/obj/Debug/netstandard2.0/AppcenterTest0911.AssemblyInfo.cs
+/Users/yamazakitakuya/Projects/AppcenterTest0911/AppcenterTest0911/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/yamazakitakuya/Projects/AppcenterTest0911/AppcenterTest0911/obj/Debug/netstandard2.0/AppcenterTest0911.dll
+/Users/yamazakitakuya/Projects/AppcenterTest0911/AppcenterTest0911/obj/Debug/netstandard2.0/AppcenterTest0911.pdb
